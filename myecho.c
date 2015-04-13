@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char* argv[], char* envp[]) 
-{printf("hello");
+{printf("hello\n");
   return 0;
 }
